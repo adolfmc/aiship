@@ -1,0 +1,1 @@
+package cn.licoy.wdog.core.mapper.aiship;import cn.licoy.wdog.core.entity.aiship.Chat;import com.baomidou.mybatisplus.mapper.BaseMapper;import org.apache.ibatis.annotations.Mapper;import org.springframework.stereotype.Repository;/** * @author mc * @version Fri May 14 18:51:01 2021 */@Mapper@Repositorypublic interface ChatMapper extends BaseMapper<Chat> {}

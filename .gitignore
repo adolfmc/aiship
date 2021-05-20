@@ -1,0 +1,6 @@
+# Default ignored files
+/aiship.iws
+
+# Project exclude paths
+/target/classes/
+/target/test-classes/
